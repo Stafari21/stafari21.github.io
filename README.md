@@ -37,7 +37,7 @@
 </head>
 <body>
     <header>
-        <h1>Phone Tablet With Braille Pad</h1>
+        <h1>The Phone Tablet With Braille Pad</h1>
     </header>
     <nav>
         <a href="#">Home</a>
