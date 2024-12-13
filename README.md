@@ -7,6 +7,11 @@
   <title>Braille Phone Tablet</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" />
   <style>
+    <header>
+  <img src="images/logo.jpg" alt="Logo of My Website">
+  <h1>Welcome to My Website</h1>
+</header>
+
     body {
       font-family: Arial, sans-serif;
       background-color: #f5f5f5;
