@@ -1,75 +1,92 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Phone Tablet with Braille Pad</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 20px;
-            background-color: #f4f4f4;
-        }
-        header {
-            background-color: #4CAF50;
-            color: white;
-            padding: 10px 0;
-            text-align: center;
-        }
-        nav {
-            margin: 20px 0;
-        }
-        nav a {
-            margin: 0 15px;
-            text-decoration: none;
-            color: #4CAF50;
-        }
-        footer {
-            background-color: #4CAF50;
-            color: black;
-            text-align: center;
-            padding: 10px 0;
-            position: fixed;
-            width: 100%;
-            bottom: 0;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Braille Phone Tablet</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f5f5f5;
+      color: #333;
+    }
+    .hero {
+      background-color: #007bff;
+      color: white;
+      padding: 50px 0;
+      text-align: center;
+    }
+    .section-title {
+      font-size: 2rem;
+      margin-bottom: 1rem;
+    }
+    .feature-list {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+      margin-top: 30px;
+    }
+    .feature-item {
+      width: 30%;
+      background-color: #fff;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      margin-bottom: 30px;
+    }
+    .feature-item h3 {
+      color: #007bff;
+    }
+    @media (max-width: 768px) {
+      .feature-item {
+        width: 100%;
+      }
+    }
+  </style>
 </head>
 <body>
-    <header>
-        <h1>The Phone Tablet With Braille Pad</h1>
-    </header>
-    <nav>
-        <a href="#">Home</a>
-        <a href="#">Product</a>
-        <a href="#">Demo</a>
-        <a href="#">About</a>
-        <a href="#">Contact</a>
-    </nav>
-    <main>
-        <section id="home">
-            <h2>Introducing the Phone Tablet with Braille Pad</h2>
-            <p>Discover the future of accessibility with our phone tablet designed for everyone.</p>
-        </section>
-        <section id="product">
-            <h2>Product Details</h2>
-            <p>Our tablet features a unique Braille pad on the back, enhancing user experience for the visually impaired.</p>
-        </section>
-        <section id="demo">
-            <h2>Interactive Demo</h2>
-            <p>Experience how the Braille pad works through this interactive demo.</p>
-        </section>
-        <section id="about">
-            <h2>About Us</h2>
-            <p>Learn more about our mission, design process, and commitment to accessibility.</p>
-        </section>
-        <section id="contact">
-            <h2>Contact Us</h2>
-            <p>Get in touch with us for more information and inquiries.</p>
-        </section>
-    </main>
-    <footer>
-        <p>&copy; 2024 Phone Tablet with Braille Pad</p>
-    </footer>
+
+  <header>
+    <div class="hero">
+      <h1>Introducing the Braille Phone Tablet</h1>
+      <p>Empowering the visually impaired with a seamless device for communication and accessibility.</p>
+      <a href="#product" class="btn btn-light btn-lg">Learn More</a>
+    </div>
+  </header>
+
+  <main>
+    <section id="product" class="container py-5">
+      <h2 class="section-title">Key Features</h2>
+      <div class="feature-list">
+        <div class="feature-item">
+          <h3>Braille Input & Output</h3>
+          <p>Experience tactile feedback with a Braille pad for easy text input and reading.</p>
+        </div>
+        <div class="feature-item">
+          <h3>Screen Reader Compatible</h3>
+          <p>Full compatibility with screen readers ensures every interaction is seamless.</p>
+        </div>
+        <div class="feature-item">
+          <h3>Ergonomic Design</h3>
+          <p>Lightweight, portable, and designed for comfort, making it perfect for everyday use.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="container py-5">
+      <h2 class="section-title">How It Works</h2>
+      <p>Our phone-tablet with Braille technology works seamlessly with both text-based and voice-based interactions. Watch the demo below:</p>
+      <a href="demo_video.mp4" class="btn btn-primary">Watch Demo</a>
+    </section>
+  </main>
+
+  <footer class="bg-dark text-white text-center py-4">
+    <p>&copy; 2024 Braille Tech. All rights reserved.</p>
+    <p><a href="contact.html" class="text-white">Contact Us</a> | <a href="privacy.html" class="text-white">Privacy Policy</a></p>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
