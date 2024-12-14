@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -125,13 +125,21 @@
 
       <p>Ultimately, the feedback we receive is used to refine the device’s features, ensuring it delivers the best possible experience for visually impaired users. The Braille Phone Tablet is designed with accessibility in mind, and its success is measured by how effectively it helps users engage with the world around them.</p>
     </section>
+
+    <!-- Contact Us Section -->
+    <section id="contact" class="container py-5">
+      <h2 class="section-title">Contact Us</h2>
+      <p>If you have any questions or need assistance, please reach out to us. Our team is happy to help!</p>
+      <p><strong>Phone:</strong> 347-554-3087</p>
+      <p><strong>Email:</strong> stafari.thomas1@sfc.edu</p>
+    </section>
   </main>
 
   <!-- Footer Section -->
   <footer class="bg-dark text-white text-center py-4">
     <p>&copy; 2024 Braille Tech. All rights reserved.</p>
     <p>
-      <a href="contact.html" class="text-white">Contact Us</a> | 
+      <a href="#contact" class="text-white">Contact Us</a> | 
       <a href="#" class="text-white" data-bs-toggle="collapse" data-bs-target="#privacy-policy" aria-expanded="false" aria-controls="privacy-policy">Privacy Policy</a>
     </p>
   </footer>
