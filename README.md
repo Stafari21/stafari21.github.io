@@ -7,11 +7,6 @@
   <title>Braille Phone Tablet</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" />
   <style>
-    <header>
-  <img src="images/logo.jpg" alt="Logo of My Website">
-  <h1>Welcome to My Website</h1>
-</header>
-
     body {
       font-family: Arial, sans-serif;
       background-color: #f5f5f5;
@@ -22,6 +17,12 @@
       color: white;
       padding: 50px 0;
       text-align: center;
+    }
+    .hero h1 {
+      font-size: 2.5rem;
+    }
+    .hero p {
+      font-size: 1.2rem;
     }
     .section-title {
       font-size: 2rem;
@@ -45,9 +46,25 @@
       color: #007bff;
     }
     @media (max-width: 768px) {
+      .hero h1 {
+        font-size: 1.5rem;
+      }
+      .hero p {
+        font-size: 1rem;
+      }
+      .hero {
+        padding: 30px 0;
+      }
       .feature-item {
         width: 100%;
       }
+    }
+
+    /* Hover effect for the "Watch Demo" button */
+    .btn-primary:hover {
+      background-color: #0056b3;
+      color: white;
+      transition: background-color 0.3s;
     }
   </style>
 </head>
@@ -57,7 +74,7 @@
     <div class="hero">
       <h1>Introducing the Braille Phone Tablet</h1>
       <p>Empowering the visually impaired with a seamless device for communication and accessibility.</p>
-      <a href="#product" class="btn btn-light btn-lg">Learn More</a>
+      <a href="#product" class="btn btn-light btn-lg" aria-label="Learn more about the Braille Phone Tablet">Learn More</a>
     </div>
   </header>
 
@@ -83,7 +100,7 @@
     <section class="container py-5">
       <h2 class="section-title">How It Works</h2>
       <p>Our phone-tablet with Braille technology works seamlessly with both text-based and voice-based interactions. Watch the demo below:</p>
-      <a href="demo_video.mp4" class="btn btn-primary">Watch Demo</a>
+      <a href="demo_video.mp4" class="btn btn-primary" aria-label="Watch the demo of Braille Phone Tablet">Watch Demo</a>
     </section>
   </main>
 
