@@ -78,6 +78,23 @@
   </header>
 
   <main>
+    <!-- Product Overview Section -->
+    <section id="overview" class="container py-5">
+      <h2 class="section-title">Product Overview</h2>
+      <p><strong>What is the goal of this product?</strong></p>
+      <p>The goal of the Braille Phone Tablet is to provide visually impaired individuals with a device that makes them feel empowered and "normal" in their daily interactions. It is designed to offer accessibility, usability, and independence to individuals who might otherwise struggle with technology.</p>
+
+      <p><strong>Who is this product for?</strong></p>
+      <p>This product is specifically built for visually impaired individuals, providing them with an intuitive way to interact with technology through tactile feedback and Braille functionality.</p>
+
+      <p><strong>What problem does it solve for users?</strong></p>
+      <p>The Braille Phone Tablet solves the challenge of accessibility for visually impaired users who often rely on voice assistance. With the Braille Function on the back of the device, users can navigate tasks through tactile feedback, reducing the need for constant voice commands. This feature allows for a more natural, hands-on experience, enabling them to interact with the device in a familiar, tactile manner.</p>
+
+      <p><strong>How is this product delivered?</strong></p>
+      <p>The product is a tablet with cellphone capabilities, offering a large screen and a form factor that allows for easy handling and comfortable interaction. The device is designed to be large enough for users to maintain a secure grip while feeling the Braille Function for navigation. The combination of tactile feedback and functionality makes it a perfect solution for visually impaired individuals looking for an accessible mobile device.</p>
+    </section>
+
+    <!-- Key Features Section -->
     <section id="product" class="container py-5">
       <h2 class="section-title">Key Features</h2>
       <div class="feature-list">
@@ -94,6 +111,19 @@
           <p>Lightweight, portable, and designed for comfort, making it perfect for everyday use.</p>
         </div>
       </div>
+    </section>
+
+    <!-- New Section: Testing & User Feedback -->
+    <section id="testing" class="container py-5">
+      <h2 class="section-title">Testing & User Feedback</h2>
+      <p><strong>Why is testing with users important?</strong></p>
+      <p>Testing your product with real users is crucial for identifying potential issues and ensuring the product meets user needs. It reduces the risk of launching a product that is hard to use or doesn't meet expectations. Testing early and continuously throughout the design process, starting with prototypes and continuing through to the final product, provides valuable feedback. Early feedback helps guide design decisions, while later testing ensures everything works as intended before launch.</p>
+      <p><strong>When should you test with users?</strong></p>
+      <p>The best time to test with users is early in the design process, starting with prototypes. Testing with real users during this phase allows you to address usability issues, gather insights, and refine the design. Continuing testing throughout the development ensures that your product remains on track and user-friendly all the way to the final product launch.</p>
+      <p><strong>Which user testing methods are most effective?</strong></p>
+      <p>At the early stages of product development, usability testing through prototypes or interviews is most effective. As the product evolves, beta testing and surveys can provide useful feedback on the final product. Overall, usability testing is critical for identifying specific problems and ensuring that the product functions as intended before launch.</p>
+      <p><strong>Our Testing Methodology</strong></p>
+      <p>Before finalizing the design, we plan to conduct several rounds of usability testing. Initially, we will create a simple prototype of the Braille Phone Tablet and test it with a group of volunteers from our target audience. This phase will help us identify any issues with navigation or functionality, such as how users interact with the Braille pad. Observing users as they interact with the prototype will allow us to gather valuable feedback on potential struggles they face. After implementing adjustments, we will conduct another round of testing to ensure the design is user-friendly and effective. This iterative approach helps ensure the final product is as intuitive and accessible as possible.</p>
     </section>
   </main>
 
