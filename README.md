@@ -81,17 +81,11 @@
     <!-- Product Overview Section -->
     <section id="overview" class="container py-5">
       <h2 class="section-title">Product Overview</h2>
-      <p><strong>What is the goal of this product?</strong></p>
-      <p>The goal of the Braille Phone Tablet is to provide visually impaired individuals with a device that makes them feel empowered and "normal" in their daily interactions. It is designed to offer accessibility, usability, and independence to individuals who might otherwise struggle with technology.</p>
+      <p>The Braille Phone Tablet is designed to provide visually impaired individuals with a device that not only meets their needs but empowers them to feel connected and independent. With a focus on accessibility and usability, the tablet offers an intuitive and tactile interface that simplifies interactions, ensuring that technology is no longer a barrier, but a tool for independence.</p>
 
-      <p><strong>Who is this product for?</strong></p>
-      <p>This product is specifically built for visually impaired individuals, providing them with an intuitive way to interact with technology through tactile feedback and Braille functionality.</p>
+      <p>This device is crafted specifically for individuals with visual impairments. Through the innovative integration of Braille functionality, users can now easily navigate their device using tactile feedback, making everyday tasks more manageable and less reliant on voice commands. The tactile Braille interface enhances the user experience by allowing them to input text and read information with their fingertips, providing a sense of control and ease in their daily activities.</p>
 
-      <p><strong>What problem does it solve for users?</strong></p>
-      <p>The Braille Phone Tablet solves the challenge of accessibility for visually impaired users who often rely on voice assistance. With the Braille Function on the back of the device, users can navigate tasks through tactile feedback, reducing the need for constant voice commands. This feature allows for a more natural, hands-on experience, enabling them to interact with the device in a familiar, tactile manner.</p>
-
-      <p><strong>How is this product delivered?</strong></p>
-      <p>The product is a tablet with cellphone capabilities, offering a large screen and a form factor that allows for easy handling and comfortable interaction. The device is designed to be large enough for users to maintain a secure grip while feeling the Braille Function for navigation. The combination of tactile feedback and functionality makes it a perfect solution for visually impaired individuals looking for an accessible mobile device.</p>
+      <p>The tablet is delivered in a convenient, portable form that integrates a large screen with Braille functionality on the back. This design offers both visual and tactile features, enabling users to access everything from messaging to browsing with a single device. The combination of ergonomic design and advanced technology makes the Braille Phone Tablet the ideal solution for anyone seeking an accessible and user-friendly mobile experience.</p>
     </section>
 
     <!-- Key Features Section -->
@@ -100,15 +94,15 @@
       <div class="feature-list">
         <div class="feature-item">
           <h3>Braille Input & Output</h3>
-          <p>Experience tactile feedback with a Braille pad for easy text input and reading.</p>
+          <p>Experience tactile feedback with a Braille pad for easy text input and reading. This feature enables users to type and read in Braille, making communication fast and effortless.</p>
         </div>
         <div class="feature-item">
           <h3>Screen Reader Compatible</h3>
-          <p>Full compatibility with screen readers ensures every interaction is seamless.</p>
+          <p>Full compatibility with screen readers ensures that every interaction is seamless, whether it's navigating apps or reading content on the screen. Users will always have clear audio guidance for navigation.</p>
         </div>
         <div class="feature-item">
           <h3>Ergonomic Design</h3>
-          <p>Lightweight, portable, and designed for comfort, making it perfect for everyday use.</p>
+          <p>Lightweight and portable, the Braille Phone Tablet is designed for comfort, ensuring that users can hold and interact with the device for extended periods without strain. Its design makes it ideal for everyday use, wherever users go.</p>
         </div>
       </div>
     </section>
@@ -116,14 +110,13 @@
     <!-- New Section: Testing & User Feedback -->
     <section id="testing" class="container py-5">
       <h2 class="section-title">Testing & User Feedback</h2>
-      <p><strong>Why is testing with users important?</strong></p>
-      <p>Testing your product with real users is crucial for identifying potential issues and ensuring the product meets user needs. It reduces the risk of launching a product that is hard to use or doesn't meet expectations. Testing early and continuously throughout the design process, starting with prototypes and continuing through to the final product, provides valuable feedback. Early feedback helps guide design decisions, while later testing ensures everything works as intended before launch.</p>
-      <p><strong>When should you test with users?</strong></p>
-      <p>The best time to test with users is early in the design process, starting with prototypes. Testing with real users during this phase allows you to address usability issues, gather insights, and refine the design. Continuing testing throughout the development ensures that your product remains on track and user-friendly all the way to the final product launch.</p>
-      <p><strong>Which user testing methods are most effective?</strong></p>
-      <p>At the early stages of product development, usability testing through prototypes or interviews is most effective. As the product evolves, beta testing and surveys can provide useful feedback on the final product. Overall, usability testing is critical for identifying specific problems and ensuring that the product functions as intended before launch.</p>
-      <p><strong>Our Testing Methodology</strong></p>
-      <p>Before finalizing the design, we plan to conduct several rounds of usability testing. Initially, we will create a simple prototype of the Braille Phone Tablet and test it with a group of volunteers from our target audience. This phase will help us identify any issues with navigation or functionality, such as how users interact with the Braille pad. Observing users as they interact with the prototype will allow us to gather valuable feedback on potential struggles they face. After implementing adjustments, we will conduct another round of testing to ensure the design is user-friendly and effective. This iterative approach helps ensure the final product is as intuitive and accessible as possible.</p>
+      <p>Before the Braille Phone Tablet is made available to the public, extensive testing with real users ensures that the device meets the needs of its intended audience. By starting with early prototypes, we can identify usability issues and make improvements based on real-world feedback.</p>
+      
+      <p>We employ a continuous testing process, beginning with initial usability tests using prototypes, followed by additional testing as the product evolves. Beta testing allows us to fine-tune the product, ensuring that it functions smoothly and effectively for all users.</p>
+
+      <p>Our testing process focuses on understanding the challenges visually impaired users may face while interacting with the tablet. Through direct user feedback, we gather valuable insights into how the Braille pad and other features are utilized. This iterative approach ensures that the final product is both accessible and user-friendly.</p>
+
+      <p>Ultimately, the feedback from these sessions plays a crucial role in shaping the final design, ensuring that the Braille Phone Tablet is as intuitive, functional, and accessible as possible for its users.</p>
     </section>
   </main>
 
