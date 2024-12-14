@@ -102,7 +102,7 @@
       <h2 class="section-title">Key Features</h2>
       <div class="feature-list">
         <div class="feature-item">
-          <h3>Braille Input & Output</h3>
+          <h3>Braille Function</h3>
           <p>The Braille Phone Tablet features a Braille pad for both text input and output, allowing users to easily read and write messages or documents through tactile feedback. This feature transforms the way visually impaired users interact with their device, providing a natural and intuitive experience.</p>
         </div>
         <div class="feature-item">
