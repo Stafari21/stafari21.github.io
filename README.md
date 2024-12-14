@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -65,6 +66,14 @@
       color: white;
       transition: background-color 0.3s;
     }
+
+    /* Style for the Privacy Policy content */
+    .privacy-content {
+      background-color: #fff;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
   </style>
 </head>
 <body>
@@ -118,10 +127,46 @@
     </section>
   </main>
 
+  <!-- Footer Section -->
   <footer class="bg-dark text-white text-center py-4">
     <p>&copy; 2024 Braille Tech. All rights reserved.</p>
-    <p><a href="contact.html" class="text-white">Contact Us</a> | <a href="privacy.html" class="text-white">Privacy Policy</a></p>
+    <p>
+      <a href="contact.html" class="text-white">Contact Us</a> | 
+      <a href="#" class="text-white" data-bs-toggle="collapse" data-bs-target="#privacy-policy" aria-expanded="false" aria-controls="privacy-policy">Privacy Policy</a>
+    </p>
   </footer>
+
+  <!-- Collapsible Privacy Policy Section -->
+  <div class="collapse" id="privacy-policy">
+    <section class="container py-5">
+      <div class="privacy-content">
+        <h2 class="section-title">Privacy Policy for Phone Table with Braille Pad</h2>
+        <p><strong>Effective Date</strong>: February 1, 2033</p>
+
+        <h3>1. Information Collection</h3>
+        <p>We do not collect any personal information when you use the Device. The Device is designed to assist with accessibility and does not require you to submit any personal details for its functionality.</p>
+
+        <h3>2. Data Usage</h3>
+        <p>Since no personal information is collected, there is no data processing or storage related to your use of the Device. The Device operates solely for the purpose of providing accessibility features, such as Braille support for interacting with your phone.</p>
+
+        <h3>3. Third-Party Services</h3>
+        <p>The Device may be used in conjunction with third-party apps or services. These third parties may collect and process your data according to their own privacy policies. We encourage you to review their privacy policies for more information.</p>
+
+        <h3>4. Security</h3>
+        <p>The Device does not transmit any personal data, and as such, there is no risk of external data breaches. However, we advise users to always ensure their phone's security settings are properly configured to protect their personal information.</p>
+
+        <h3>5. Children's Privacy</h3>
+        <p>The Device is not intended for children under the age of 13. We do not knowingly collect any personal information from children. If you are a parent or guardian and believe that your child has provided personal information, please contact us immediately.</p>
+
+        <h3>6. Changes to This Policy</h3>
+        <p>We may update this privacy policy from time to time. Any changes will be posted on this page with an updated "Effective Date." We encourage you to review this policy periodically to stay informed about how we protect your information.</p>
+
+        <h3>7. Contact Us</h3>
+        <p>If you have any questions about this privacy policy, please contact us at:</p>
+        <p>Phone: 347-554-3087<br>Email: stafari.thomas1@sfc.edu</p>
+      </div>
+    </section>
+  </div>
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
 </body>
