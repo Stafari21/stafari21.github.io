@@ -59,7 +59,7 @@
       }
     }
 
-    /* Hover effect for the "Watch Demo" button */
+    /* Hover effect for the "Learn More" button */
     .btn-primary:hover {
       background-color: #0056b3;
       color: white;
@@ -94,12 +94,6 @@
           <p>Lightweight, portable, and designed for comfort, making it perfect for everyday use.</p>
         </div>
       </div>
-    </section>
-
-    <section class="container py-5">
-      <h2 class="section-title">How It Works</h2>
-      <p>Our phone-tablet with Braille technology works seamlessly with both text-based and voice-based interactions. Watch the demo below:</p>
-      <a href="demo_video.mp4" class="btn btn-primary" aria-label="Watch the demo of Braille Phone Tablet">Watch Demo</a>
     </section>
   </main>
 
