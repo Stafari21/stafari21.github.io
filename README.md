@@ -76,7 +76,7 @@
 
     /* Style for the Contact Us section */
     .contact-us-section {
-      display: none;
+      display: none; /* Make sure it's hidden by default */
       background-color: #fff;
       padding: 30px;
       border-radius: 10px;
@@ -161,7 +161,12 @@
     // Toggle the visibility of the Contact Us section when the link is clicked
     document.getElementById('contact-link').addEventListener('click', function() {
       var contactSection = document.getElementById('contact-us');
-      contactSection.style.display = (contactSection.style.display === 'none' || contactSection.style.display === '') ? 'block' : 'none';
+      // Toggle visibility of the Contact Us section
+      if (contactSection.style.display === 'none' || contactSection.style.display === '') {
+        contactSection.style.display = 'block';
+      } else {
+        contactSection.style.display = 'none';
+      }
     });
   </script>
 </body>
