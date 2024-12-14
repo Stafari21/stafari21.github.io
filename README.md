@@ -1,4 +1,3 @@
-
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -74,6 +73,15 @@
       border-radius: 10px;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     }
+
+    /* Style for the Contact Us section */
+    .contact-us-section {
+      display: none;
+      background-color: #fff;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
   </style>
 </head>
 <body>
@@ -90,11 +98,7 @@
     <!-- Product Overview Section -->
     <section id="overview" class="container py-5">
       <h2 class="section-title">Product Overview</h2>
-      <p>The Braille Phone Tablet is designed to provide visually impaired individuals with a device that offers both accessibility and independence. This innovative tablet integrates tactile Braille functionality, allowing users to easily interact with technology through touch, ensuring a seamless, hands-on experience.</p>
-
-      <p>This product is crafted specifically for visually impaired individuals who are often limited by the lack of tactile feedback in typical devices. The Braille Phone Tablet solves this problem by providing a built-in Braille interface, enabling users to read and input text without relying on voice commands or traditional touch screens. The tablet’s ergonomic design ensures comfort, making it easy to hold and use for extended periods of time.</p>
-
-      <p>In addition to its Braille capabilities, the tablet comes equipped with a large, easy-to-read screen and incorporates voice control for added flexibility. The device is perfect for everyday tasks such as messaging, browsing the internet, and accessing apps, all while ensuring that users can do so independently and efficiently. Whether for communication, entertainment, or productivity, the Braille Phone Tablet is designed to meet the unique needs of its users.</p>
+      <p>The Braille Phone Tablet is designed to provide visually impaired individuals with a device that offers both accessibility and independence...</p>
     </section>
 
     <!-- Key Features Section -->
@@ -103,15 +107,15 @@
       <div class="feature-list">
         <div class="feature-item">
           <h3>Braille Function</h3>
-          <p>The Braille Phone Tablet features a Braille pad for both text input and output, allowing users to easily read and write messages or documents through tactile feedback. This feature transforms the way visually impaired users interact with their device, providing a natural and intuitive experience.</p>
+          <p>The Braille Phone Tablet features a Braille pad for both text input and output...</p>
         </div>
         <div class="feature-item">
           <h3>Screen Reader Compatibility</h3>
-          <p>Fully compatible with screen readers, the Braille Phone Tablet ensures that every action, from reading text to navigating apps, is easily understood through audio output. This feature creates a smooth, accessible experience for users, allowing them to interact with the device as naturally as possible.</p>
+          <p>Fully compatible with screen readers, the Braille Phone Tablet ensures that every action...</p>
         </div>
         <div class="feature-item">
           <h3>Ergonomic Design</h3>
-          <p>With its lightweight, portable design, the Braille Phone Tablet is comfortable to hold and easy to use for long periods. The device is designed to accommodate various grip styles, making it a versatile tool for daily use, whether at home, on the go, or in the workplace.</p>
+          <p>With its lightweight, portable design, the Braille Phone Tablet is comfortable to hold...</p>
         </div>
       </div>
     </section>
@@ -119,19 +123,7 @@
     <!-- New Section: Testing & User Feedback -->
     <section id="testing" class="container py-5">
       <h2 class="section-title">Testing & User Feedback</h2>
-      <p>Thorough user testing is a crucial part of the development process for the Braille Phone Tablet. By conducting usability tests with real users, we ensure that the device is practical, easy to use, and meets the needs of its target audience. From initial prototypes to final production, user feedback plays a critical role in shaping the product.</p>
-
-      <p>Early-stage testing with prototypes allows us to address potential usability issues and fine-tune the device’s design. As the product develops, we continue to gather feedback through beta testing and surveys, ensuring that each update brings us closer to a fully optimized product. This iterative testing process ensures that every aspect of the Braille Phone Tablet, from navigation to functionality, is user-friendly and accessible.</p>
-
-      <p>Ultimately, the feedback we receive is used to refine the device’s features, ensuring it delivers the best possible experience for visually impaired users. The Braille Phone Tablet is designed with accessibility in mind, and its success is measured by how effectively it helps users engage with the world around them.</p>
-    </section>
-
-    <!-- Contact Us Section -->
-    <section id="contact" class="container py-5">
-      <h2 class="section-title">Contact Us</h2>
-      <p>If you have any questions or need assistance, please reach out to us. Our team is happy to help!</p>
-      <p><strong>Phone:</strong> 347-554-3087</p>
-      <p><strong>Email:</strong> stafari.thomas1@sfc.edu</p>
+      <p>Thorough user testing is a crucial part of the development process...</p>
     </section>
   </main>
 
@@ -139,7 +131,7 @@
   <footer class="bg-dark text-white text-center py-4">
     <p>&copy; 2024 Braille Tech. All rights reserved.</p>
     <p>
-      <a href="#contact" class="text-white">Contact Us</a> | 
+      <a href="javascript:void(0);" id="contact-link" class="text-white">Contact Us</a> | 
       <a href="#" class="text-white" data-bs-toggle="collapse" data-bs-target="#privacy-policy" aria-expanded="false" aria-controls="privacy-policy">Privacy Policy</a>
     </p>
   </footer>
@@ -150,32 +142,27 @@
       <div class="privacy-content">
         <h2 class="section-title">Privacy Policy for Phone Table with Braille Pad</h2>
         <p><strong>Effective Date</strong>: February 1, 2033</p>
-
         <h3>1. Information Collection</h3>
-        <p>We do not collect any personal information when you use the Device. The Device is designed to assist with accessibility and does not require you to submit any personal details for its functionality.</p>
-
-        <h3>2. Data Usage</h3>
-        <p>Since no personal information is collected, there is no data processing or storage related to your use of the Device. The Device operates solely for the purpose of providing accessibility features, such as Braille support for interacting with your phone.</p>
-
-        <h3>3. Third-Party Services</h3>
-        <p>The Device may be used in conjunction with third-party apps or services. These third parties may collect and process your data according to their own privacy policies. We encourage you to review their privacy policies for more information.</p>
-
-        <h3>4. Security</h3>
-        <p>The Device does not transmit any personal data, and as such, there is no risk of external data breaches. However, we advise users to always ensure their phone's security settings are properly configured to protect their personal information.</p>
-
-        <h3>5. Children's Privacy</h3>
-        <p>The Device is not intended for children under the age of 13. We do not knowingly collect any personal information from children. If you are a parent or guardian and believe that your child has provided personal information, please contact us immediately.</p>
-
-        <h3>6. Changes to This Policy</h3>
-        <p>We may update this privacy policy from time to time. Any changes will be posted on this page with an updated "Effective Date." We encourage you to review this policy periodically to stay informed about how we protect your information.</p>
-
-        <h3>7. Contact Us</h3>
-        <p>If you have any questions about this privacy policy, please contact us at:</p>
-        <p>Phone: 347-554-3087<br>Email: stafari.thomas1@sfc.edu</p>
+        <p>We do not collect any personal information when you use the Device...</p>
       </div>
     </section>
   </div>
 
+  <!-- Hidden Contact Us Section -->
+  <div id="contact-us" class="contact-us-section">
+    <h2 class="section-title">Contact Us</h2>
+    <p>If you have any questions or need assistance, please reach out to us. Our team is happy to help!</p>
+    <p><strong>Phone:</strong> 347-554-3087</p>
+    <p><strong>Email:</strong> stafari.thomas1@sfc.edu</p>
+  </div>
+
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+  <script>
+    // Toggle the visibility of the Contact Us section when the link is clicked
+    document.getElementById('contact-link').addEventListener('click', function() {
+      var contactSection = document.getElementById('contact-us');
+      contactSection.style.display = (contactSection.style.display === 'none' || contactSection.style.display === '') ? 'block' : 'none';
+    });
+  </script>
 </body>
 </html>
