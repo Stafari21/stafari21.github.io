@@ -89,7 +89,7 @@
   <header>
     <div class="hero">
       <h1>Introducing The Phone Tablet with the Braille Pad</h1>
-      <p>Empowering the visually impaired with a seamless device for communication and accessibility.</p>
+      <p>Empowering the visually impaired to feel closer to normal with a seamless device for communication and accessibility.</p>
       <a href="#product" class="btn btn-light btn-lg" aria-label="Learn more about The Phone Tablet with the Braille Pad">Learn More</a>
     </div>
   </header>
