@@ -104,12 +104,6 @@
 
       <p>In addition to its Braille capabilities, the tablet comes equipped with a large, easy-to-read screen and incorporates voice control for added flexibility. The device is perfect for everyday tasks such as messaging, browsing the internet, and accessing apps, all while ensuring that users can do so independently and efficiently. Whether for communication, entertainment, or productivity, The Phone Tablet with the Braille Pad is designed to meet the unique needs of its users.</p>
 
-      <!-- Image Display Section -->
-      <div class="text-center my-5">
-        <img src="https://yourdomain.com/path/to/braillepad-image.jpg" alt="Braille Pad" class="img-fluid rounded mx-auto d-block" style="max-width: 100%; height: auto;">
-      </div>
-    </section>
-
     <!-- Key Features Section -->
     <section id="product" class="container py-5">
       <h2 class="section-title">Key Features</h2>
