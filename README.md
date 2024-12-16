@@ -178,7 +178,7 @@
   <div id="contact-us" class="contact-us-section">
     <h2 class="section-title">Contact Us</h2>
     <p>If you have any questions or need assistance, please reach out to us. Our team is happy to help!</p>
-    <p><strong>Phone:</strong> 347-554-3087</p>
+    <p><strong>Phone:</strong> 347-554-1111</p>
     <p><strong>Email:</strong> stafari.thomas1@sfc.edu</p>
   </div>
 
