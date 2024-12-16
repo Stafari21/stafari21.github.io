@@ -94,8 +94,57 @@
     </div>
   </header>
 
-<body>
-  <blockquote class="imgur-embed-pub" lang="en" data-id="a/AH8odEJ" data-context="false" ><a href="//imgur.com/a/AH8odEJ"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<style>
+  .hero {
+    position: relative;
+    width: 100%;
+    height: 100vh; /* Full viewport height */
+    overflow: hidden;
+  }
+
+  .hero-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Ensures the image covers the whole space without distortion */
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  .hero-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-align: center;
+    z-index: 1;
+  }
+
+  .hero h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+  }
+
+  .hero p {
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+  }
+
+  .btn-light {
+    background-color: rgba(255, 255, 255, 0.7);
+    color: #007bff;
+    font-size: 1.2rem;
+    padding: 10px 20px;
+    text-decoration: none;
+  }
+
+  .btn-light:hover {
+    background-color: #007bff;
+    color: white;
+  }
+</style>
+
 
 
   <main>
