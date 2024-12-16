@@ -94,6 +94,9 @@
     </div>
   </header>
 
+<img src="https://i.imgur.com/yourimage.jpg" alt="Phone Tablet with Braille Pad" class="img-fluid">
+
+
   <main>
     <!-- Product Overview Section -->
     <section id="overview" class="container py-5">
