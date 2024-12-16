@@ -95,7 +95,7 @@
   </header>
 
 <body>
-  <blockquote class="imgur-embed-pub" lang="en" data-id="a/AH8odEJ" data-context="false" ><a href="//imgur.com/a/AH8odEJ"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+  <blockquote lang="en" data-id="a/AH8odEJ" data-context="false"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
   <main>
