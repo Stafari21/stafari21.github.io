@@ -132,7 +132,6 @@
 
       <p>Ultimately, the feedback we receive is used to refine the device’s features, ensuring it delivers the best possible experience for visually impaired users. The Phone Tablet with the Braille Pad is designed with accessibility in mind, and its success is measured by how effectively it helps users engage with the world around them.</p>
     </section>
-  </main>
 
   <!-- Footer Section -->
   <footer class="bg-dark text-white text-center py-4">
@@ -192,5 +191,4 @@
       }
     });
   </script>
-</body>
 </html>
