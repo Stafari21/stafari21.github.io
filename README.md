@@ -1,4 +1,4 @@
-trw<html lang="en">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -165,7 +165,7 @@ trw<html lang="en">
 
         <h3>6. Contact Us</h3>
         <p>If you have any questions regarding this Privacy Policy or our products, please contact us at:</p>
-        <p>Email: privacy@brailletech.com</p>
+        <p>Email: privacy@tptwtbptech.com</p>
       </div>
     </section>
   </div>
