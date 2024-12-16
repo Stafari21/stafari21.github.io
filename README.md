@@ -94,6 +94,7 @@
     </div>
   </header>
 
+<body>
 <img src="https://Braille-pad.jpg/yourimage.jpg" alt="Braille-pad" />
 
 
