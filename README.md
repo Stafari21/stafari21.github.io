@@ -94,7 +94,7 @@
     </div>
   </header>
 
-<img src="https://Braille-pad.jpg/yourimage.jpg" alt="Phone Tablet with Braille Pad" class="img-fluid">
+<img src="https://Braille-pad.jpg/yourimage.jpg" />
 
 
   <main>
