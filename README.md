@@ -94,8 +94,28 @@
     </div>
   </header>
 
-<body>
-  <blockquote lang="en" data-id="a/AH8odEJ" data-context="false"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<div class="center-container">
+  <blockquote class="imgur-embed-pub" lang="en" data-id="a/AH8odEJ" data-context="false">
+    <a href="//imgur.com/a/AH8odEJ"></a>
+  </blockquote>
+  <script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+</div>
+
+<style>
+  .center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Centers the content inside */
+    margin: 0 auto; /* Optional: to limit the width of the container */
+  }
+
+  blockquote {
+    margin: 0;
+  }
+</style>
+
+
 
 
   <main>
